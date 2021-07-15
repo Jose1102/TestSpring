@@ -5,19 +5,17 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.4.4</version>
+		<version>2.5.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>testing-web</artifactId>
+	<groupId>com.example.testingweb</groupId>
+	<artifactId>appTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>testing-web</name>
+	<name>appTest</name>
 	<description>Demo project for Spring Boot</description>
-
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
